@@ -1,6 +1,5 @@
 # 👋 About Me:
-Hi, I'm currently a high school student that sometimes programs as a hobby. I enjoy web (using PUG as an enigine) and python. I really enjoy making things with modules like selenium. 
-
+I develop in Python, Web and C.
 
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/pluto_red) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pluto_red) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/pluto_red) 
